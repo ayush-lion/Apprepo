@@ -22,7 +22,7 @@ private static final long serialVersionUID = 1L;
         p1.setBackground(Color.RED);
         p2.setBackground(Color.GREEN);
         p3.setBackground(Color.BLUE);
-        p3.setBackground(Color.	CYAN);
+        p3.setBackground(Color.	GRAY);
         
         add(p1);
         add(p2);
